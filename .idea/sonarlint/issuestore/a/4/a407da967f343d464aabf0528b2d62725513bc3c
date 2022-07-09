@@ -1,0 +1,32 @@
+
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒşüøÿÿÿÿ8‚áÈ”0
+v
+squid:S135%"YReduce the total number of break and continue statements in this loop to use at most one.(îïÜç8‹®ÎÔ›0
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8‹®ÎÔ›0
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(àÒşüøÿÿÿÿ8‹®ÎÔ›0
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ‚åÒÿÿÿÿÿ8‹®ÎÔ›0
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ˆºúÚ8‹®ÎÔ›0
+U
+squid:S106&"9Replace this use of System.out or System.err by a logger.(°ï‡@8‹®ÎÔ›0
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(äû8‹®ÎÔ›0
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(®†ÕÏ8‹®ÎÔ›0
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(Æ–ğ—8‹®ÎÔ›0
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ŒÇÃÃ8‹®ÎÔ›0
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(Ã´‡û8‹®ÎÔ›0
+V
+squid:S106}"9Replace this use of System.out or System.err by a logger.(”ŠÆ8‹®ÎÔ›0
+[
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ÃÙ£•ÿÿÿÿÿ8‹®ÎÔ›0
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ÿ¾®8‹®ÎÔ›0
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¡‘–üÿÿÿÿ8‹®ÎÔ›0
+V
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(¦Ø…;8‹®ÎÔ›0

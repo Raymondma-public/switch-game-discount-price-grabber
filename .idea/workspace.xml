@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1b0b55a-1c24-460e-8727-b7e3d457783b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameprice" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2ALKchmoTGPxGf5BeEdK6H4dFHH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="managers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\heihe\Downloads\java-samples-master\drive\gameprice\rawdata" />
+      <recent name="C:\Users\heihe\Downloads\java-samples-master\drive\gameprice\src\main\resources\chromedriver_win32" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GamePriceGrabberStarter">
+    <configuration name="BrowserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="managers.BrowserController" />
+      <module name="gameprice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="managers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePriceGrabberStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.GamePriceGrabberStarter" />
+      <module name="gameprice.main" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BrowserController" />
+        <item itemvalue="Application.GamePriceGrabberStarter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b0b55a-1c24-460e-8727-b7e3d457783b" name="Default Changelist" comment="" />
+      <created>1654783506028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654783506028</updated>
+      <workItem from="1654783509818" duration="4289000" />
+      <workItem from="1654787868103" duration="942000" />
+      <workItem from="1654788857154" duration="68000" />
+      <workItem from="1654788941178" duration="2466000" />
+      <workItem from="1654840488348" duration="5364000" />
+      <workItem from="1655134938886" duration="2711000" />
+      <workItem from="1655270168652" duration="1979000" />
+      <workItem from="1655477829749" duration="1427000" />
+      <workItem from="1655562591040" duration="16798000" />
+      <workItem from="1655737668310" duration="3890000" />
+      <workItem from="1655818023540" duration="3429000" />
+      <workItem from="1655897397160" duration="335000" />
+      <workItem from="1656082884852" duration="626000" />
+      <workItem from="1656136298743" duration="1042000" />
+      <workItem from="1656596723955" duration="976000" />
+      <workItem from="1656692638872" duration="5000" />
+      <workItem from="1656757479895" duration="369000" />
+      <workItem from="1657340466709" duration="3245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
